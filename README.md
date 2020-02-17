@@ -1,1 +1,1 @@
-# mean-variance-and-black-litterman-mdoel
+# Black-Litterman-Model-and-Mean-Variance-Model
