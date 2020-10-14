@@ -1,1 +1,1 @@
-# Machine-Learning-Optimization-Black-Litterman-and-Mean-Variance-Optimization
+# This research paper is about Portfolio Optimization Molding Research, Comparing Black Litterman Model and Mean Variance Model to other Machine learning optimization
