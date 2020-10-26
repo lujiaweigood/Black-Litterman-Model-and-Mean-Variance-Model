@@ -1,1 +1,1 @@
-# This research paper is about Portfolio Optimization Molding Research, Comparing Black Litterman Model and Mean Variance Model to other Machine learning optimization
+# This research paper is about Portfolio Optimization Molding Research, Comparing Black Litterman Model and Mean Variance Model to new methods of Machine Learning Optimization Nested Clustered Optimization (NCO), Convex Optimization(CVO), NCO with MCOS simulated value and CVO with MCOS.
